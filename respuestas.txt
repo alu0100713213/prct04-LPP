@@ -9,3 +9,5 @@ Es una librería transaccional que forma parte del espacio de direcciones virtua
 La diferencia es que con el interprete de Ruby directamente nos da las respuesta. En cambio con el interprete interactivo podemos modificar en linea todo el programa. Además de tener el interprete abierto para cualquier consulta en Ruby.
 
 
+¿Cuales son las diferencias entre la ejecucion del programa "Hola Mundo"
+con el interprete interactivo y con pry ?

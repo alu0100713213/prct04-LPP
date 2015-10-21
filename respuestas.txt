@@ -1,1 +1,5 @@
 Respuestas
+
+¿Qué es RVM (Ruby Version Manager)?
+
+Es una librería transaccional que forma parte del espacio de direcciones virtual del proceso persistente del disco y copia los cambios a esta memoria automáticamente desde el almacenamiento persistente. Coda usa RVM para administrar sus metadatos. Estos datos son almacenados en un archivo RVM que es mapeado a memoria nada más arrancar. Las modificaciones se hacen en la VM y son escritas en el archivo de log RVM cuando una transacción es realizada. 
